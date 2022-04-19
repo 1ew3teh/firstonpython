@@ -5,6 +5,8 @@ from time import time as timer
 mixer.init()
 font.init()
 
+#попа муравья
+
 score = 0
 
 win_width = 700
